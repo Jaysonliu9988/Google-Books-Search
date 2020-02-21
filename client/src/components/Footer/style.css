@@ -1,0 +1,22 @@
+footer {
+   position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #cad7e6;
+    color:#343a40;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    padding-top: 10px;
+    font-size: 20px
+}
+
+a {
+   color:  #343a40
+}
+
+#github {
+    color: #343a40
+}

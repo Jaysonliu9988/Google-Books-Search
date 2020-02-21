@@ -1,0 +1,25 @@
+.card{
+  border-radius: 10px;
+  background-color: #cad7e6;
+  font-family: 'Raleway', sans-serif;
+  color: #343a40
+}
+
+.saved-list{
+  border-radius: 15px;
+  background-color: #cad7e6;
+  font-family: 'Raleway', sans-serif;
+  color: #343a40
+}
+
+.deleteBook {
+  border-radius: 5px;
+  margin-left: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.viewBook {
+  border-radius: 5px;
+  margin-left: 5px;
+  font-family: 'Raleway', sans-serif;
+}
